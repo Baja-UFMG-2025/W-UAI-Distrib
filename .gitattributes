@@ -1,4 +1,2 @@
-*.manifest binary
-*.application binary
-*.deps.json binary
-*.dll.config binary
+# Disables all end-of-line (EOL) processing for every file
+* -text
