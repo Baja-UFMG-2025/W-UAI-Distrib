@@ -1,0 +1,4 @@
+*.manifest binary
+*.application binary
+*.deps.json binary
+*.dll.config binary
