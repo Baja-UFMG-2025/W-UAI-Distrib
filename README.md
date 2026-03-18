@@ -44,6 +44,7 @@ Siga os passos abaixo para instalar o aplicativo e ver instruções de uso. Boas
 ## Versões
 | Número | Data | Descrição |
 | --- | --- | --- |
+| 1.0.2.0 | 18/03/2026 | Refatoração do painel de replay e tempo real, adição dos apelidos de sessão. |
 | 1.0.1.4 | 12/03/2026 | Painel de estrutura melhorado, inicialização corrigida. |
 | 1.0.0.2 | 09/03/2026 | Correções menores, padronização de nomes. |
 | 1.0.0.0 | 09/03/2026 | Lançamento inicial, com funcionalidades completas de Enduro, Pista e Tempo Real. Aba de Estrutura incompleta. |
