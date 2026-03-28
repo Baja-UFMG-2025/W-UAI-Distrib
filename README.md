@@ -44,6 +44,7 @@ Siga os passos abaixo para instalar o aplicativo e ver instruções de uso. Boas
 ## Versões
 | Número | Data | Descrição |
 | --- | --- | --- |
+| 1.2.0.1 | 28/03/2026 | Durante a nacional 26, adiciona funcionalidade de reconexão e visualizador de qualidadedo link. |
 | 1.1.0.0 | 27/03/2026 | Durante a nacional 26, melhorias de visual e contagem de voltas manual. |
 | 1.0.2.0 | 18/03/2026 | Refatoração do painel de replay e tempo real, adição dos apelidos de sessão. |
 | 1.0.1.4 | 12/03/2026 | Painel de estrutura melhorado, inicialização corrigida. |
