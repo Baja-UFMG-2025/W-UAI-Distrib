@@ -14,7 +14,7 @@ Siga os passos abaixo para instalar o aplicativo e ver instruções de uso. Boas
 3. Siga os passos indicados e aceite a instalação na janela que aparecer. Os pré-requisitos, como os redistributáveis C++ e o .NET 8.0 serão instalados. Depois disso, a interface abrirá automaticamente. Tudo certo!
 >[!NOTE]
 >Toda vez que o aplicativo abrir, ele tentará se conectar à internet e vai procurar por atualizações. Dessa forma, você só precisa fazer o processo de instalação uma vez. 😉
-
+4. Se for necessário recuperar algum dado, como a base de dados local de versões anteriores, ou executar versões anteriores do aplicativo, procure na pasta `C:\Users\%Usuário%\AppData\Local\Apps\2.0\` onde você deve encontrar duas pastas,`Data` e uma que contém a instalação. Cada versão instalada aparecerá para você ali.
 ## Instruções de Uso
 - Para se beneficiar de uma experiência completa, é necessário o uso de uma **Estação de Telemetria** desenvolvida pelo Baja UFMG! Para se conectar a ela, basta utilizar um cabo USB ligado a qualquer porta do seu computador. Também é possível utilizar um módulo **USB-to-TTL**, comumente o ***PL2303 Prolific***, mas o seu uso necessita de conhecimento do circuito da estação, além de necessitar de um [driver específico para Windows](https://github.com/theAmberLion/Prolific).
 - Ao abrir a interface, selecione a porta COM que equivale ao driver STMicroeletronics ou Prolific associado.
@@ -44,6 +44,7 @@ Siga os passos abaixo para instalar o aplicativo e ver instruções de uso. Boas
 ## Versões
 | Número | Data | Descrição |
 | --- | --- | --- |
+| 1.1.0.0 | 27/03/2026 | Durante a nacional 26, melhorias de visual e contagem de voltas manual. |
 | 1.0.2.0 | 18/03/2026 | Refatoração do painel de replay e tempo real, adição dos apelidos de sessão. |
 | 1.0.1.4 | 12/03/2026 | Painel de estrutura melhorado, inicialização corrigida. |
 | 1.0.0.2 | 09/03/2026 | Correções menores, padronização de nomes. |
